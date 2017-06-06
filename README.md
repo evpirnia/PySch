@@ -1,4 +1,4 @@
-#PySch
+# PySch
 
 A program in Python3 that interacts with the user via command line. The user of the program is prompted with a menu where he/she can choose to:
 
